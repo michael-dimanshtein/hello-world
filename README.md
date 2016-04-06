@@ -1,2 +1,2 @@
 # hello-world
-First thing
+The thing about me.
